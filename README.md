@@ -9,11 +9,11 @@ Este repositório contém as atividades realizadas para a disciplina INF331 na U
 
 - **Laboratório 1 – Atividade 1:**  
   Arquivo: `aula3-lab1-task1.ows`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab03/blob/main/aula3-lab1-task1.ows)
+  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab03/blob/master/aula3-lab1-task1.ows)
 
 - **Laboratório 2 – Atividade 1:**  
   Arquivo: `aula2-lab2-atv1.ipynb`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab03/blob/main/aula3-lab2-task1.ipynb)
+  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab03/blob/master/aula3-lab2-task1.ipynb)
 
 ## Relatório
 
