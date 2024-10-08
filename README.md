@@ -8,26 +8,13 @@ Este repositório contém as atividades realizadas para a disciplina INF331 na U
 ## Passo a passo para partir de um código "comum" para componentização
 
 - **Laboratório 1 – Atividade 1:**  
-  Arquivo: `aula2-lab1-atv1.ipynb`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab02/blob/main/aula2-lab1-atv1.ipynb)
+  Arquivo: `aula3-lab1-task1.ows`  
+  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab03/blob/main/aula3-lab1-task1.ows)
 
 - **Laboratório 2 – Atividade 1:**  
   Arquivo: `aula2-lab2-atv1.ipynb`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab02/blob/main/aula2-lab2-atv1.ipynb)
-
-- **Laboratório 3 – Atividade 1:**  
-  Arquivo: `aula2-lab3-atv1.ipynb`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab02/blob/main/aula2-lab3-atv1.ipynb)
-
-- **Laboratório 4 – Atividade 1:**  
-  Arquivo: `aula2-lab4-atv1.ipynb`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab02/blob/main/aula2-lab4-atv1.ipynb)
-
-- **Laboratório 5 – Atividade 1:**  
-  Arquivo: `aula2-lab5-atv1.ipynb`  
-  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab02/blob/main/aula2-lab5-atv1.ipynb)
-
+  [Link para o arquivo](https://github.com/Douglas019BR/INF331-lab03/blob/main/aula3-lab2-task1.ipynb)
 
 ## Relatório
 
-O relatório com os detalhes das análises, capturas de tela e resultados obtidos pode ser acessado no [PDF](https://github.com/Douglas019BR/INF331-lab01/blob/main/Douglas_Semarini_Aula02-INF331.pdf)
+O relatório com os detalhes das análises, capturas de tela e resultados obtidos pode ser acessado no [PDF](https://github.com/Douglas019BR/INF331-lab02/blob/main/Douglas_Semarini_Aula02-INF331.pdf)
